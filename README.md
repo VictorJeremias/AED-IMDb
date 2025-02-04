@@ -60,7 +60,6 @@ Este projeto utiliza um dataset com os **1000 filmes mais populares do IMDb**, e
 - **Distribuição das Notas**: Um gráfico mostrando como as avaliações dos filmes estão distribuídas.
 - **Gêneros mais Populares**: Quantos filmes existem em cada gênero?
 - **Duração Média dos Filmes**: Qual é a duração média dos filmes listados no top 1000?
-- **Correlação de Notas e Metascore**: Existe uma relação entre a pontuação do IMDb e a pontuação do Metascore?
 
 ## 📈 Visualizações
 
@@ -68,9 +67,6 @@ Veja as visualizações geradas pelo código:
 
 1. **Distribuição das Notas dos Filmes**
 2. **Quantidade de Filmes por Gênero**
-3. **Quantidade de Filmes por Classificação**
-4. **Tempo Médio de Duração dos Filmes**
-
 
 
 🎬 Divirta-se explorando os filmes mais populares e suas análises! 🚀
