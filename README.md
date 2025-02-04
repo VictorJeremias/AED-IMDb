@@ -24,7 +24,7 @@ Este projeto utiliza um dataset com os **1000 filmes mais populares do IMDb**, e
 1. **Clonar o repositório**:
    - Abra seu terminal e execute:
      ```
-     git clone https://github.com/SEU_USUARIO/nome-do-repositorio.git
+     git clone https://github.com/VictorJeremias/AED-IMDb.git
      ```
 
 2. **Instalar as dependências**:
