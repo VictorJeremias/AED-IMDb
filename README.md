@@ -52,7 +52,7 @@ Este projeto utiliza um dataset com os **1000 filmes mais populares do IMDb**, e
 4. **Rodar o código**:
    - Execute o código Python:
      ```
-     python seu_arquivo.py
+     AED-IMDb.py
      ```
 
 ## 📊 Análises Realizadas
