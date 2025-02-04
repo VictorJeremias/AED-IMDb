@@ -68,6 +68,8 @@ Veja as visualizações geradas pelo código:
 
 1. **Distribuição das Notas dos Filmes**
 2. **Quantidade de Filmes por Gênero**
+3. **Quantidade de Filmes por Classificação**
+4. **Tempo Médio de Duração dos Filmes**
 
 
 
